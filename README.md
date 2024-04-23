@@ -1,6 +1,3 @@
-Certainly! Here's an expanded version suitable for a README file:
-
----
 
 ## Hotel Booking Cancellation Prediction Model
 
